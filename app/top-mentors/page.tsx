@@ -123,7 +123,7 @@ export default function TopMentorsPage() {
                       border border-blue-500/20 shadow-glow">
           <h1 className="text-4xl font-bold text-white 
                          drop-shadow-[0_2px_10px_rgba(37,99,235,0.2)]">
-            Top AI Mentors
+            Top Mentors
           </h1>
           
           {/* Search Bar */}
